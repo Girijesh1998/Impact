@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/*---------------------Navbar---------------*/
+
+#navbar{
+    background-color: #008374;
+    width: 100%;
+    height: 90px;
+}
+.navbar{
+    background-color: #008374;
+    width: 100%;
+}
+
+.dropdown-menu{
+    background-color: #008374;
+    color: #fff;
+}
+
+/*---------------------Hero Section---------------*/
+#hero-section{
+    background-color: #008374;
+    width: 100%;
+    height: fit-content;
+}
+
+#hero-section .btn-primary{
+    background-color: #008374;
+    height: 45px;
+    color: #fff;
+    border: o.4px snow whitesmoke;
+}
+#hero-section .btn-primary:hover{
+    background-color: #008374;
+    color: #fff;
+    border:0.8px skyblue #ffffff;
+}
+
+#hero-section .fs-1{
+    font-size: 10px;
+
+}
+#hero-section p{
+    color: #ffffff99;
+
+}
+/*---------------------Hero Section---------------*/
+
+
+.Box{
+    background-color: #008374;
+    margin-left: 40px;
+    margin-top: 20px;
+    text-align: center;
+    align-content: center;
+    height: 300px;
+    width: 261px;
+    box-shadow: 10px 10px 30px   #888888;
+    border-radius: 5px;
+}
+.box-icons{
+    margin-top: 90px;
+    font-size: 35px;
+    font-weight: 400;
+    color:#ffffff99;
+}
+.box-content{
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+
+/*---------------------about Section---------------*/
+
+#about{
+    background-color: #fff;
+    margin-top: 100px;
+
+}
+#about .container{
+    margin-top: 100px;
+}
+.about-heading{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+/*---------------------client Section---------------*/
+#status-section{
+    
+
+}
+.status-img{
+    width: 546px;
+    height: 274px;
+    margin-right: 100px;
+}
+.status{
+    margin: ;
+}
+.count-status{
+    color: #008374;
+    font-size: 40px;
+}
+hr{
+    margin-right: 50px;
+}
+
+/*---------------------services Section---------------*/
+#services{
+    background: #f6f6f6;
+    height: fit-content;
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+.our-service{
+    padding-top: 30px;
+}
+#services .container-fluid{
+    margin-top: 300px;
+}
+.icon{
+    margin-top: 50px;
+    width: 56px;
+    height: 56px;
+    font-size: 56px;
+}
+
+.service-card{
+    width: 355px;
+    height: 340px;
+    border-radius: 2px;
+    margin-top: 50px;
+    margin-left: 50px;
+    background-color: white;
+}
+
+/*---------------------testimonial Section---------------*/
+#testimonial{
+    background-color:#fff;
+    margin-top: 100px;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+#testimonial .container-fluid{
+    margin-top: 100px;
+}
+
+#testimonial .container{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.testimonial-photo{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
+
+.testimonial-name{
+    font-family: Georgia, serif;
+    font-size: large;
+    font-weight: 700;
+   
+}
+.star{
+    width: 102px;
+    height: 40px;
+}
+.col-card{
+    background-color: #fff;
+    align-content: center;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 5px #f8f4f4;
+    padding: 4px;
+    width: 310px;
+    height: 322px;
+
+}
+.para{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-stretch: narrower;
+    font-size: medium;
+    font-weight: 600;
+    font-stretch: expanded;
+}
+.fa-quote-left{
+    color: green;
+    margin-right: 10px;
+}
+.fa-quote-right{
+    color: green;
+    margin-left: 10px;
+}
+
+/*---------------------testimonial Section---------------*/
+#CopyRight-footer{
+    background-color: #008374;
+    height: 30px;
+
+}
